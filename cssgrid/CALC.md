@@ -1,5 +1,7 @@
 ## How to use a little CSS Grid magic to design a calculator app
 
+This article is copied from an article found [on medium](#reference).
+
 This article is a quick intro to CSS Grid. We will be making a calculator using it.
 
 This article is good for developers who have a basic understanding of CSS and for those who want to learn the newer tools CSS offers to style pages.
@@ -250,5 +252,5 @@ If you liked my article, please clap. It is quite encouraging for me.
 
 If you were to do the same task, how would you approach this? Let me know in the comments.
 
-
+### Reference
 Reference: [How to use a little CSS Grid magic to design a calculator app](https://medium.freecodecamp.org/how-to-use-a-little-css-grid-magic-to-design-a-calculator-app-e162afb2fdb4)
